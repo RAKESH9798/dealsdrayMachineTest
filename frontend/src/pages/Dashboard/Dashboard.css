@@ -1,0 +1,16 @@
+.dashboard-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80vh;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+.dashboard-header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
